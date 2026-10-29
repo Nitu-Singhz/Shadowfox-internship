@@ -42,6 +42,8 @@ Dataset
   Category, Subcategory, Product Name, Sales, Quantity, Discount,
   Profit, Shipping Cost, Order Priority and Year.
 - Dataset link:[link](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
+
+Tools and Methods:
 Microsoft Excel, data quality checks, duplicate checks, PivotTables, KPI
 calculations, charts and dashboard design.
 Data Preparation
@@ -84,7 +86,8 @@ Dataset
 - Columns: Invoice, StockCode, Description, Quantity, InvoiceDate,
   Price, Customer ID and Country
 - Dataset source:[link](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-Tools and Methods
+
+Tools and Methods:
 Python, Pandas, Google Colab/Jupyter, data-quality profiling, data
 cleaning, exploratory data analysis (EDA), revenue calculations and
 Power BI.
@@ -147,7 +150,8 @@ Dataset
 - Data quality: No missing values or duplicate rows remained after
   the project's data checks.
 - Source link:[link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
-Tools and Methods
+
+Tools and Methods:
 Power BI Desktop, Power Query, DAX measures, KPI cards, charts and
 slicers.
 Data Preparation and Metrics
@@ -203,5 +207,6 @@ Acknowledgement
 I thank Shadow Fox and my mentor Mr. Aakash for the opportunity
 to complete these Data Analytics projects and strengthen my practical
 skills in data preparation, analysis, visualization and reporting.
+
 Author: Nitu Singh
 Focus: Data Analytics | Excel | SQL | Python | Power BI
