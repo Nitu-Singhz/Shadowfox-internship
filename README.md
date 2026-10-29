@@ -41,11 +41,7 @@ Dataset
   Customer Name, Segment, State, Country, Market, Region, Product ID,
   Category, Subcategory, Product Name, Sales, Quantity, Discount,
   Profit, Shipping Cost, Order Priority and Year.
-- Dataset link: Search Kaggle for Superstore Orders
-  datasets
-The exact Kaggle dataset page was not recorded in the project notes, so
-this link opens a search rather than identifying a specific uploader.
-Tools and Methods
+- Dataset link:[link](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
 Microsoft Excel, data quality checks, duplicate checks, PivotTables, KPI
 calculations, charts and dashboard design.
 Data Preparation
@@ -75,10 +71,6 @@ Key Findings
   performance.
 - In the analyzed pivot, negative profit began around the 20.20%
   discount level.
-Files to Include
-- Excel workbook/dashboard: Superstore_Orders_Analysis.xlsx
-- Final report and presentation, if available
-- Dashboard screenshots, if available
 2. Intermediate --- Online Retail II: Retail Sales & Customer Analytics
 Objective
 Analyze retail transactions to identify revenue trends, product and
@@ -91,8 +83,7 @@ Dataset
 - Original size: 1,067,371 rows × 8 columns
 - Columns: Invoice, StockCode, Description, Quantity, InvoiceDate,
   Price, Customer ID and Country
-- Dataset source: UCI Machine Learning Repository --- Online
-  Retail II
+- Dataset source:[link](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 Tools and Methods
 Python, Pandas, Google Colab/Jupyter, data-quality profiling, data
 cleaning, exploratory data analysis (EDA), revenue calculations and
@@ -145,13 +136,6 @@ The product PAPER CRAFT, LITTLE BIRDIE had a very large quantity
 potential outlier rather than automatically removed as an error. The
 years 2009 and 2011 are partial years, so comparisons should account for
 incomplete periods.
-Files to Include
-- Python script/notebook and requirements.txt
-- Power BI .pbix file, if available
-- Dashboard screenshot(s)
-- ShadowFox_Intermediate_Online_Retail_II_Report.docx
-- ShadowFox_Intermediate_Online_Retail_II_Presentation.pptx
-- Selected analysis CSV outputs, if appropriate to share
 3. Advanced --- IBM HR Analytics: Employee Attrition Analysis
 Objective
 Build a one-page Power BI dashboard to examine employee attrition by
@@ -162,9 +146,7 @@ Dataset
 - Size: 1,470 rows × 39 columns
 - Data quality: No missing values or duplicate rows remained after
   the project's data checks.
-- Source link: The exact public dataset URL was not recorded in
-  the project notes. Add the original dataset page if available rather
-  than substituting a different source.
+- Source link:[link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
 Tools and Methods
 Power BI Desktop, Power Query, DAX measures, KPI cards, charts and
 slicers.
