@@ -80,8 +80,7 @@ country performance, order-value patterns and customer segments. The
 project combines Python-based data preparation and analysis with
 dashboard reporting.
 Dataset
-- Exact dataset filename: Online_Retail_II.csv --- Roman numeral
-  II, not digit 2.
+- Exact dataset filename: Online_Retail_II.csv 
 - Original size: 1,067,371 rows × 8 columns
 - Columns: Invoice, StockCode, Description, Quantity, InvoiceDate,
   Price, Customer ID and Country
@@ -209,4 +208,5 @@ to complete these Data Analytics projects and strengthen my practical
 skills in data preparation, analysis, visualization and reporting.
 
 Author: Nitu Singh
+
 Focus: Data Analytics | Excel | SQL | Python | Power BI
